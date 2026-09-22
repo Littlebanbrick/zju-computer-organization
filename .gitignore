@@ -1,5 +1,7 @@
 Water_LED
 mux_ctrl
 alu
+RegFile
+fsm
 
 **.png
