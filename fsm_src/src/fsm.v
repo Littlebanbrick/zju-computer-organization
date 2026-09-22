@@ -41,7 +41,7 @@ module fsm(
             S2: next_state = in ? S3 : S0;
             S3: next_state = in ? S3 : S4;
             S4: next_state = in ? S1 : S5;
-            S5: next_state = in ? S6 : S1;
+            S5: next_state = in ? S6 : S0;
             S6: next_state = in ? S2 : S7;
             S7: next_state = in ? S1 : S0;  
             default: next_state = S0;
