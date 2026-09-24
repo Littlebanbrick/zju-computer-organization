@@ -105,6 +105,8 @@
   #v(2em)
   #text(size: 20pt)[作者：姓名 学号]
   #v(0.5em)
+  #text(size: 20pt)[指导教师：姓名]
+  #v(0.5em)
   #text(size: 20pt)[时间：YYYY-MM-DD]
   #v(0.5em)
 ]
