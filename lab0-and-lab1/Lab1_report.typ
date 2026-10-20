@@ -1,6 +1,5 @@
 // COD 实验报告 —— Lab 1：ALU、RegFile 与有限状态机设计
 // 本文件基于 report_template.typ 撰写
-// 同目录所需图片：icon_ZJU.png、alu_wave.png、reg_file_wave.png、fsm_wave.png
 
 // ===== 全局样式 =====
 
@@ -101,7 +100,7 @@
     \
     与有限状态机设计
   ]
-  #image("icon_ZJU.png", width: 40%)
+  #image("../icon_ZJU.png", width: 40%)
   #v(2em)
   #text(size: 20pt)[作者：王传宇 3250102681]
   #v(0.5em)
